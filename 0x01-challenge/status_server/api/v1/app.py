@@ -19,4 +19,4 @@ def not_found(error):
 if __name__ == "__main__":
 
     # python -m api.v1.app 
-    app.run(host="54.145.240.183", port=5000)
+    app.run(host="35.153.57.197", port=5000)
